@@ -16,10 +16,33 @@ jobs:
           errors = []
           FILE_RE = re.compile(r'^map_\d+-\d+_\d+\.json$')
           BAD_KEY = re.compile(r'[^a-zA-Z0-9_\\\.\-]')
+          # 合法动作键（非 picture 引用）。值通常是数字，少数是 list。
+          KEY_TYPES = {
+            # 移动 / 按键
+            'w': 'num', 'a': 'num', 's': 'num', 'd': 'num',
+            'ww': 'num', 'aa': 'num', 'ss': 'num', 'dd': 'num',
+            'f': 'num', 'r': 'num', 'e': 'num', 'b': 'num', 'space': 'num',
+            'esc': 'num', 'caps': 'num', '1': 'num',
+            # UI / 界面
+            'fighting': 'num', 'map': 'num', 'main': 'num', 'await': 'num',
+            'lv999_fighting': 'num', 'lv999_e': 'num', 'lv999_await': 'num',
+            'view_rotate': 'num', 'view_reset': 'num', 'view_set': 'num',
+            'scene': 'num', 'scroll': 'num', 'forbid_retry': 'num',
+            'allow_skip_f': 'num',
+            'need_allow_map_buy': 'num', 'need_allow_snack_buy': 'num',
+            'need_allow_memory_token': 'num',
+            # 拖拽 / 点击（list 值合法）
+            'drag': 'num', 'drag_exact': 'list', 'drag_offset': 'list',
+            'click_offset': 'list', 'clicks': 'num',
+            'floor': 'list', 'check': 'list',
+          }
           pics = set()
           for root, _, files in os.walk('picture'):
             for f in files:
               pics.add(f)
+          def pic_ok(ref):
+            # 实际文件可能为 ref（精确）或 ref + '.webp'（源图是 webp）
+            return ref in pics or (ref + '.webp') in pics
           maps = 0
           for root, _, files in os.walk('map'):
             for f in files:
@@ -42,7 +65,7 @@ jobs:
                   errors.append(f'{p}: {arr} not list')
                   continue
                 for step in d[arr]:
-                  if not isinstance(step, dict) or len(step) != 1:
+                  if not isinstance(step, dict) or len(step) < 1:
                     errors.append(f'{p}: bad step {step}')
                     continue
                   for k, v in step.items():
@@ -50,10 +73,16 @@ jobs:
                       errors.append(f'{p}: bad key {k!r}')
                     if k.startswith('picture\\'):
                       ref = k.split('\\')[1]
-                      if ref not in pics:
+                      if not pic_ok(ref):
                         errors.append(f'{p}: missing picture {ref}')
-                    if not isinstance(v, (int, float)):
-                      errors.append(f'{p}: value not number for {k}')
+                    else:
+                      t = KEY_TYPES.get(k)
+                      if t is None:
+                        errors.append(f'{p}: unknown key {k!r}')
+                      elif t == 'num' and not isinstance(v, (int, float)):
+                        errors.append(f'{p}: value not number for {k}')
+                      elif t == 'list' and not isinstance(v, list):
+                        errors.append(f'{p}: value not list for {k}')
           print(f'checked {maps} maps, {len(pics)} pictures')
           if errors:
             print('\n'.join(errors[:50]))
