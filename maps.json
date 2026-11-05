@@ -1,0 +1,7031 @@
+{
+ "generated": "2026-11-05",
+ "versions": {
+  "technique": {
+   "label": "技巧",
+   "desc": ""
+  },
+  "reward": {
+   "label": "奖励",
+   "desc": ""
+  },
+  "default_lite": {
+   "label": "轻量版",
+   "desc": ""
+  },
+  "default": {
+   "label": "默认",
+   "desc": ""
+  },
+  "SilverWolfLv999": {
+   "label": "银狼Lv999",
+   "desc": ""
+  },
+  "HuangQuan": {
+   "label": "黄金",
+   "desc": ""
+  }
+ },
+ "maps": [
+  {
+   "file": "technique/map_4-3_9.json",
+   "name": "酒店梦境-9",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 12,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_8.json",
+   "name": "酒店梦境-8",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-3_7.json",
+   "name": "酒店梦境-7",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-3_6.json",
+   "name": "酒店梦境-6",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-3_5.json",
+   "name": "酒店梦境-5",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 1,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-3_4.json",
+   "name": "酒店梦境-4",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 21,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_3.json",
+   "name": "酒店梦境-3",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_25.json",
+   "name": "酒店梦境-25",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 38,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_24.json",
+   "name": "酒店梦境-24",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 41,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_23.json",
+   "name": "酒店梦境-23",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 25,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_22.json",
+   "name": "酒店梦境-22",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 47,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_21.json",
+   "name": "酒店梦境-21",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 19,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_20.json",
+   "name": "酒店梦境-20",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 52,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_19.json",
+   "name": "酒店梦境-19",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 53,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_18.json",
+   "name": "酒店梦境-18",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 37,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_17.json",
+   "name": "酒店梦境-17",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 27,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_16.json",
+   "name": "酒店梦境-16",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 16,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_15.json",
+   "name": "酒店梦境-15",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 53,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_14.json",
+   "name": "酒店梦境-14",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 53,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_13.json",
+   "name": "酒店梦境-13",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 32,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_12.json",
+   "name": "酒店梦境-12",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_4-3_11.json",
+   "name": "酒店梦境-11",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 40,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-3_10.json",
+   "name": "酒店梦境-10",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-3_1.json",
+   "name": "酒店梦境-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 13,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_4-2_6.json",
+   "name": "稚子的梦-6",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 4,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-2_5.json",
+   "name": "稚子的梦-5",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-2_4.json",
+   "name": "稚子的梦-4",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-2_3.json",
+   "name": "稚子的梦-3",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 52,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-2_2.json",
+   "name": "稚子的梦-2",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-2_1.json",
+   "name": "稚子的梦-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 5,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_4-1_7.json",
+   "name": "筑梦边境-7",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_4-1_6.json",
+   "name": "筑梦边境-6",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-1_5.json",
+   "name": "筑梦边境-5",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 80,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-1_4.json",
+   "name": "筑梦边境-4",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-1_2.json",
+   "name": "筑梦边境-2",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 71,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_4-1_1.json",
+   "name": "筑梦边境-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 12
+  },
+  {
+   "file": "technique/map_4-0_1.json",
+   "name": "黄金打罐-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_4-0_0.json",
+   "name": "艾迪恩代币-1",
+   "author": "lrwy",
+   "version": "technique",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "technique/map_3-7_6.json",
+   "name": "鳞渊境-6",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-7_5.json",
+   "name": "鳞渊境-5",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-7_4.json",
+   "name": "鳞渊境-4",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-7_3.json",
+   "name": "鳞渊境-3",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-7_2.json",
+   "name": "鳞渊境-2",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-7_1.json",
+   "name": "鳞渊境-1",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_3-6_7.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-6_6.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-6_5.json",
+   "name": "丹鼎司-5",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_3-6_4.json",
+   "name": "丹鼎司-4",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-6_3.json",
+   "name": "丹鼎司-3",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-6_2.json",
+   "name": "丹鼎司-2",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-6_1.json",
+   "name": "丹鼎司-1",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 22,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_3-5_2.json",
+   "name": "绥  园-2",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 35,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-5_1.json",
+   "name": "绥  园-1",
+   "author": "喵不可言,龙女姬",
+   "version": "technique",
+   "map_len": 15,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_3-4_6.json",
+   "name": "工造司-6",
+   "author": "龙女姬,小明,lrwy",
+   "version": "technique",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-4_5.json",
+   "name": "工造司-5",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 48,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-4_4.json",
+   "name": "工造司-4",
+   "author": "雪见璃,小明",
+   "version": "technique",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-4_3.json",
+   "name": "工造司-3",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-4_2.json",
+   "name": "工造司-2",
+   "author": "雪见璃,小明",
+   "version": "technique",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-4_1.json",
+   "name": "工造司-1",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 19,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_3-3_6.json",
+   "name": "太卜司-6",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "technique",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-3_5.json",
+   "name": "太卜司-5",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "technique",
+   "map_len": 47,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-3_4.json",
+   "name": "太卜司-4",
+   "author": "雪见璃,夜里无星",
+   "version": "technique",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-3_3.json",
+   "name": "太卜司-3",
+   "author": "雪见璃,夜里无星",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-3_2.json",
+   "name": "太卜司-2",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "technique",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_3-3_1.json",
+   "name": "太卜司-1",
+   "author": "雪见璃,夜里无星",
+   "version": "technique",
+   "map_len": 1,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_3-2_6.json",
+   "name": "迴星港-6",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 27,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-2_5.json",
+   "name": "迴星港-5",
+   "author": "雪见璃,lrwy",
+   "version": "technique",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-2_4.json",
+   "name": "迴星港-4",
+   "author": "忘了",
+   "version": "technique",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-2_3.json",
+   "name": "迴星港-3",
+   "author": "夜里无星,StarryWind",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-2_2.json",
+   "name": "迴星港-2",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-2_1.json",
+   "name": "迴星港-1",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 36,
+   "start_len": 5
+  },
+  {
+   "file": "technique/map_3-1_6.json",
+   "name": "流云渡-6",
+   "author": "龙女姬,小明",
+   "version": "technique",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-1_5.json",
+   "name": "流云渡-5",
+   "author": "龙女姬,小明",
+   "version": "technique",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-1_4.json",
+   "name": "流云渡-4",
+   "author": "雪见璃,小明",
+   "version": "technique",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-1_3.json",
+   "name": "流云渡-3",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 0,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-1_2.json",
+   "name": "流云渡-2",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_3-1_1.json",
+   "name": "流云渡-1",
+   "author": "雪见璃",
+   "version": "technique",
+   "map_len": 31,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_3-0_2.json",
+   "name": "过期邮包-1",
+   "author": "lrwy",
+   "version": "technique",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "technique/map_3-0_1.json",
+   "name": "零食合成-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 3,
+   "start_len": 10
+  },
+  {
+   "file": "technique/map_3-0_0.json",
+   "name": "零食材料-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 2,
+   "start_len": 31
+  },
+  {
+   "file": "technique/map_2-7_3.json",
+   "name": "机器聚落-3",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-7_2.json",
+   "name": "机器聚落-2",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-7_1.json",
+   "name": "机器聚落-1",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 4,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_2-6_2.json",
+   "name": "铆钉镇-2",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-6_1.json",
+   "name": "铆钉镇-1",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_2-5_4.json",
+   "name": "大矿区-4",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_2-5_3.json",
+   "name": "大矿区-3",
+   "author": "夜里无星,小明",
+   "version": "technique",
+   "map_len": 15,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_2-5_2.json",
+   "name": "大矿区-2",
+   "author": "Starry-Wind",
+   "version": "technique",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_2-5_1.json",
+   "name": "大矿区-1",
+   "author": "夜里无星,雪见璃,小明",
+   "version": "technique",
+   "map_len": 20,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_2-4_2.json",
+   "name": "永冬岭-2",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-4_1.json",
+   "name": "永冬岭-1",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 10,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_2-3_5.json",
+   "name": "残响回廊-5",
+   "author": "雪见璃,Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 26,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-3_4.json",
+   "name": "残响回廊-4",
+   "author": "Starry-Wind,CDCP,lrwy",
+   "version": "technique",
+   "map_len": 9,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-3_3.json",
+   "name": "残响回廊-3",
+   "author": "Starry-Wind,五月,雪见璃,小明,CDCP",
+   "version": "technique",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_2-3_2.json",
+   "name": "残响回廊-2",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_2-3_1.json",
+   "name": "残响回廊-1",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 10,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_2-2_3.json",
+   "name": "边缘道路-3",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 11,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_2-2_2.json",
+   "name": "边缘道路-2",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-2_1.json",
+   "name": "边缘道路-1",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 7,
+   "start_len": 6
+  },
+  {
+   "file": "technique/map_2-1_2.json",
+   "name": "城郊雪原-2",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_2-1_1.json",
+   "name": "城郊雪原-1",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "technique",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_1-4_2.json",
+   "name": "禁闭舱段-2",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_1-4_1.json",
+   "name": "禁闭舱段-1",
+   "author": "喵不可言",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_1-3_3.json",
+   "name": "支援舱段-3",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "technique",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_1-3_2.json",
+   "name": "支援舱段-2",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_1-3_1.json",
+   "name": "支援舱段-1",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 12,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_1-2_3.json",
+   "name": "收容舱段-3",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 23,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_1-2_2.json",
+   "name": "收容舱段-2",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "technique/map_1-2_1.json",
+   "name": "收容舱段-1",
+   "author": "Starry-Wind,小明",
+   "version": "technique",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "technique/map_1-1_1.json",
+   "name": "基座舱段-1",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "technique",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "technique/map_1-1_0.json",
+   "name": "主控舱段-1",
+   "author": "lrwy",
+   "version": "technique",
+   "map_len": 0,
+   "start_len": 12
+  },
+  {
+   "file": "reward/map_5-0_0.json",
+   "name": "收集记忆代币-1",
+   "author": "smjes3",
+   "version": "reward",
+   "map_len": 14,
+   "start_len": 12
+  },
+  {
+   "file": "reward/map_4-0_0.json",
+   "name": "艾迪恩代币-1",
+   "author": "lrwy",
+   "version": "reward",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "reward/map_3-0_2.json",
+   "name": "过期邮包-1",
+   "author": "lrwy",
+   "version": "reward",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "reward/map_3-0_1.json",
+   "name": "零食合成-1",
+   "author": "喵不可言",
+   "version": "reward",
+   "map_len": 3,
+   "start_len": 13
+  },
+  {
+   "file": "reward/map_3-0_0.json",
+   "name": "零食材料-1",
+   "author": "喵不可言",
+   "version": "reward",
+   "map_len": 2,
+   "start_len": 31
+  },
+  {
+   "file": "default_lite/map_4-5_7.json",
+   "name": "影视乐园-7",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 16,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-5_6.json",
+   "name": "影视乐园-6",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-5_5.json",
+   "name": "影视乐园-5",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-5_4.json",
+   "name": "影视乐园-4",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 6,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-5_3.json",
+   "name": "影视乐园-3",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 12,
+   "start_len": 5
+  },
+  {
+   "file": "default_lite/map_4-5_2.json",
+   "name": "影视乐园-2",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 12,
+   "start_len": 5
+  },
+  {
+   "file": "default_lite/map_4-5_1.json",
+   "name": "影视乐园-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 44,
+   "start_len": 8
+  },
+  {
+   "file": "default_lite/map_4-2_6.json",
+   "name": "稚子的梦-6",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 4,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-2_5.json",
+   "name": "稚子的梦-5",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_4-2_4.json",
+   "name": "稚子的梦-4",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-2_3.json",
+   "name": "稚子的梦-3",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 52,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-2_2.json",
+   "name": "稚子的梦-2",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_4-2_1.json",
+   "name": "稚子的梦-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 5,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_4-1_7.json",
+   "name": "筑梦边境-7",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_4-1_6.json",
+   "name": "筑梦边境-6",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_4-1_5.json",
+   "name": "筑梦边境-5",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 80,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_4-1_4.json",
+   "name": "筑梦边境-4",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_4-1_2.json",
+   "name": "筑梦边境-2",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 71,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_4-1_1.json",
+   "name": "筑梦边境-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 18,
+   "start_len": 12
+  },
+  {
+   "file": "default_lite/map_4-0_1.json",
+   "name": "黄金打罐-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "default_lite/map_4-0_0.json",
+   "name": "艾迪恩代币-1",
+   "author": "lrwy",
+   "version": "default_lite",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "default_lite/map_3-7_6.json",
+   "name": "鳞渊境-6",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-7_5.json",
+   "name": "鳞渊境-5",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-7_4.json",
+   "name": "鳞渊境-4",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-7_3.json",
+   "name": "鳞渊境-3",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-7_2.json",
+   "name": "鳞渊境-2",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-7_1.json",
+   "name": "鳞渊境-1",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_3-6_7.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-6_6.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-6_5.json",
+   "name": "丹鼎司-5",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_3-6_4.json",
+   "name": "丹鼎司-4",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-6_3.json",
+   "name": "丹鼎司-3",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-6_2.json",
+   "name": "丹鼎司-2",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-6_1.json",
+   "name": "丹鼎司-1",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 22,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_3-5_2.json",
+   "name": "绥  园-2",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 35,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-5_1.json",
+   "name": "绥  园-1",
+   "author": "喵不可言,龙女姬",
+   "version": "default_lite",
+   "map_len": 15,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_3-4_6.json",
+   "name": "工造司-6",
+   "author": "龙女姬,小明,lrwy",
+   "version": "default_lite",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-4_5.json",
+   "name": "工造司-5",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 48,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-4_4.json",
+   "name": "工造司-4",
+   "author": "雪见璃,小明",
+   "version": "default_lite",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-4_3.json",
+   "name": "工造司-3",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-4_2.json",
+   "name": "工造司-2",
+   "author": "雪见璃,小明",
+   "version": "default_lite",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-4_1.json",
+   "name": "工造司-1",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 19,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_3-3_5.json",
+   "name": "太卜司-5",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "default_lite",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_3-3_4.json",
+   "name": "太卜司-4",
+   "author": "雪见璃,夜里无星",
+   "version": "default_lite",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_3-3_3.json",
+   "name": "太卜司-3",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "default_lite",
+   "map_len": 47,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-3_2.json",
+   "name": "太卜司-2",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "default_lite",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-3_1.json",
+   "name": "太卜司-1",
+   "author": "雪见璃,夜里无星",
+   "version": "default_lite",
+   "map_len": 17,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_3-2_6.json",
+   "name": "迴星港-6",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 27,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-2_5.json",
+   "name": "迴星港-5",
+   "author": "雪见璃,lrwy",
+   "version": "default_lite",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-2_4.json",
+   "name": "迴星港-4",
+   "author": "忘了",
+   "version": "default_lite",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-2_3.json",
+   "name": "迴星港-3",
+   "author": "夜里无星,StarryWind",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-2_2.json",
+   "name": "迴星港-2",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-2_1.json",
+   "name": "迴星港-1",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 36,
+   "start_len": 5
+  },
+  {
+   "file": "default_lite/map_3-1_6.json",
+   "name": "流云渡-6",
+   "author": "龙女姬,小明",
+   "version": "default_lite",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-1_5.json",
+   "name": "流云渡-5",
+   "author": "龙女姬,小明",
+   "version": "default_lite",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-1_4.json",
+   "name": "流云渡-4",
+   "author": "雪见璃,小明",
+   "version": "default_lite",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-1_3.json",
+   "name": "流云渡-3",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 0,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-1_2.json",
+   "name": "流云渡-2",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_3-1_1.json",
+   "name": "流云渡-1",
+   "author": "雪见璃",
+   "version": "default_lite",
+   "map_len": 31,
+   "start_len": 7
+  },
+  {
+   "file": "default_lite/map_3-0_2.json",
+   "name": "过期邮包-1",
+   "author": "lrwy",
+   "version": "default_lite",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "default_lite/map_3-0_1.json",
+   "name": "零食合成-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 3,
+   "start_len": 10
+  },
+  {
+   "file": "default_lite/map_3-0_0.json",
+   "name": "零食材料-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 2,
+   "start_len": 31
+  },
+  {
+   "file": "default_lite/map_2-7_3.json",
+   "name": "机器聚落-3",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 22,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-7_2.json",
+   "name": "机器聚落-2",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-7_1.json",
+   "name": "机器聚落-1",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 4,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_2-6_2.json",
+   "name": "铆钉镇-2",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-6_1.json",
+   "name": "铆钉镇-1",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 18,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_2-5_4.json",
+   "name": "大矿区-4",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_2-5_3.json",
+   "name": "大矿区-3",
+   "author": "夜里无星,小明",
+   "version": "default_lite",
+   "map_len": 15,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_2-5_2.json",
+   "name": "大矿区-2",
+   "author": "Starry-Wind",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_2-5_1.json",
+   "name": "大矿区-1",
+   "author": "夜里无星,雪见璃,小明",
+   "version": "default_lite",
+   "map_len": 19,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_2-4_2.json",
+   "name": "永冬岭-2",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-4_1.json",
+   "name": "永冬岭-1",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 10,
+   "start_len": 7
+  },
+  {
+   "file": "default_lite/map_2-3_5.json",
+   "name": "残响回廊-5",
+   "author": "雪见璃,Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 26,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-3_4.json",
+   "name": "残响回廊-4",
+   "author": "Starry-Wind,CDCP,lrwy",
+   "version": "default_lite",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-3_3.json",
+   "name": "残响回廊-3",
+   "author": "Starry-Wind,五月,雪见璃,小明,CDCP",
+   "version": "default_lite",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_2-3_2.json",
+   "name": "残响回廊-2",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_2-3_1.json",
+   "name": "残响回廊-1",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 10,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_2-2_3.json",
+   "name": "边缘道路-3",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 11,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_2-2_2.json",
+   "name": "边缘道路-2",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-2_1.json",
+   "name": "边缘道路-1",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 7,
+   "start_len": 6
+  },
+  {
+   "file": "default_lite/map_2-1_2.json",
+   "name": "城郊雪原-2",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_2-1_1.json",
+   "name": "城郊雪原-1",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "default_lite",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "default_lite/map_1-4_2.json",
+   "name": "禁闭舱段-2",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_1-4_1.json",
+   "name": "禁闭舱段-1",
+   "author": "喵不可言",
+   "version": "default_lite",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_1-3_3.json",
+   "name": "支援舱段-3",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "default_lite",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_1-3_2.json",
+   "name": "支援舱段-2",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_1-3_1.json",
+   "name": "支援舱段-1",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "default_lite/map_1-2_3.json",
+   "name": "收容舱段-3",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_1-2_2.json",
+   "name": "收容舱段-2",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "default_lite/map_1-2_1.json",
+   "name": "收容舱段-1",
+   "author": "Starry-Wind,小明",
+   "version": "default_lite",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "default_lite/map_1-1_1.json",
+   "name": "基座舱段-1",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "default_lite",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "default_lite/map_1-1_0.json",
+   "name": "主控舱段-1",
+   "author": "lrwy",
+   "version": "default_lite",
+   "map_len": 0,
+   "start_len": 12
+  },
+  {
+   "file": "default/map_6-2_2.json",
+   "name": "绘世学院-2",
+   "author": "lrwy",
+   "version": "default",
+   "map_len": 9,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_6-2_1.json",
+   "name": "绘世学院-1",
+   "author": "lrwy",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 8
+  },
+  {
+   "file": "default/map_6-1_3.json",
+   "name": "鸽川区-3",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 5,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_6-1_2.json",
+   "name": "鸽川区-2",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_6-1_1.json",
+   "name": "鸽川区-1",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 20,
+   "start_len": 9
+  },
+  {
+   "file": "default/map_5-9_3.json",
+   "name": "穹顶关塞-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 119,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-9_2.json",
+   "name": "穹顶关塞-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-9_1.json",
+   "name": "穹顶关塞-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 104,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-8_6.json",
+   "name": "云端遗堡-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-8_5.json",
+   "name": "云端遗堡-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 67,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-8_4.json",
+   "name": "云端遗堡-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-8_3.json",
+   "name": "云端遗堡-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-8_2.json",
+   "name": "云端遗堡-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 33,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-8_1.json",
+   "name": "云端遗堡-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 42,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_5-7_6.json",
+   "name": "龙骸古城-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 55,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-7_5.json",
+   "name": "龙骸古城-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 74,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-7_4.json",
+   "name": "龙骸古城-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 20,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-7_3.json",
+   "name": "龙骸古城-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-7_2.json",
+   "name": "龙骸古城-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-7_1.json",
+   "name": "龙骸古城-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 19,
+   "start_len": 10
+  },
+  {
+   "file": "default/map_5-6_4.json",
+   "name": "无晖祈堂-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 40,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-6_3.json",
+   "name": "无晖祈堂-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-6_2.json",
+   "name": "无晖祈堂-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-6_1.json",
+   "name": "无晖祈堂-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 15,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-5_8.json",
+   "name": "呓语密林-8",
+   "author": "和月",
+   "version": "default",
+   "map_len": 111,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-5_7.json",
+   "name": "呓语密林-7",
+   "author": "和月",
+   "version": "default",
+   "map_len": 125,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-5_6.json",
+   "name": "呓语密林-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 19,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-5_5.json",
+   "name": "呓语密林-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 33,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-5_4.json",
+   "name": "呓语密林-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-5_3.json",
+   "name": "呓语密林-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 21,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-5_2.json",
+   "name": "呓语密林-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-5_1.json",
+   "name": "呓语密林-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 18,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-4_7.json",
+   "name": "神谕圣地-7",
+   "author": "和月",
+   "version": "default",
+   "map_len": 45,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_5-4_6.json",
+   "name": "神谕圣地-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 39,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-4_5.json",
+   "name": "神谕圣地-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 38,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-4_4.json",
+   "name": "神谕圣地-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 31,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-4_3.json",
+   "name": "神谕圣地-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 90,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-4_2.json",
+   "name": "神谕圣地-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 87,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-4_1.json",
+   "name": "神谕圣地-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 157,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-3_6.json",
+   "name": "命运重渊-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 38,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-3_5.json",
+   "name": "命运重渊-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 74,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-3_4.json",
+   "name": "命运重渊-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 38,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-3_3.json",
+   "name": "命运重渊-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 69,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-3_2.json",
+   "name": "命运重渊-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 105,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-3_1.json",
+   "name": "命运重渊-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_5-2_9.json",
+   "name": "纷争荒墟-9",
+   "author": "和月",
+   "version": "default",
+   "map_len": 21,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-2_8.json",
+   "name": "纷争荒墟-8",
+   "author": "和月",
+   "version": "default",
+   "map_len": 63,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_5-2_7.json",
+   "name": "纷争荒墟-7",
+   "author": "和月",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-2_6.json",
+   "name": "纷争荒墟-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 39,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_5-2_5.json",
+   "name": "纷争荒墟-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-2_4.json",
+   "name": "纷争荒墟-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-2_3.json",
+   "name": "纷争荒墟-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 54,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-2_2.json",
+   "name": "纷争荒墟-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 39,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-2_1.json",
+   "name": "纷争荒墟-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 81,
+   "start_len": 9
+  },
+  {
+   "file": "default/map_5-1_8.json",
+   "name": "浴血战端-8",
+   "author": "和月",
+   "version": "default",
+   "map_len": 82,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-1_7.json",
+   "name": "浴血战端-7",
+   "author": "和月",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_5-1_6.json",
+   "name": "浴血战端-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 48,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-1_5.json",
+   "name": "浴血战端-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_5-1_4.json",
+   "name": "浴血战端-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 70,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_5-1_3.json",
+   "name": "浴血战端-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 50,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-1_2.json",
+   "name": "浴血战端-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 16,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_5-1_1.json",
+   "name": "浴血战端-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 45,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_5-0_0.json",
+   "name": "收集记忆代币-1",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 14,
+   "start_len": 12
+  },
+  {
+   "file": "default/map_4-7_7.json",
+   "name": "大剧院（3D）-9",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 156,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-7_6.json",
+   "name": "大剧院（3D）-6",
+   "author": "smjes3,和月",
+   "version": "default",
+   "map_len": 102,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-7_5.json",
+   "name": "大剧院（3D）-5",
+   "author": "smjes3,和月",
+   "version": "default",
+   "map_len": 73,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-7_4.json",
+   "name": "大剧院-4",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-7_3.json",
+   "name": "大剧院-3",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 2,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-7_2.json",
+   "name": "大剧院-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 32,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-7_1.json",
+   "name": "大剧院-1",
+   "author": "smjes3,和月",
+   "version": "default",
+   "map_len": 32,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_4-6_4.json",
+   "name": "热砂海选会场-4",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-6_3.json",
+   "name": "热砂海选会场-3",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 20,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-6_2.json",
+   "name": "热砂海选会场-2",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 32,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-6_1.json",
+   "name": "热砂海选会场-1",
+   "author": "smjes3",
+   "version": "default",
+   "map_len": 16,
+   "start_len": 8
+  },
+  {
+   "file": "default/map_4-5_6.json",
+   "name": "影视乐园-7",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 16,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-5_5.json",
+   "name": "影视乐园-6",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-5_4.json",
+   "name": "影视乐园-5",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-5_3.json",
+   "name": "影视乐园-3",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-5_2.json",
+   "name": "影视乐园-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-5_1.json",
+   "name": "影视乐园-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 44,
+   "start_len": 8
+  },
+  {
+   "file": "default/map_4-4_7.json",
+   "name": "朝露公馆(3D)-7",
+   "author": "和月",
+   "version": "default",
+   "map_len": 116,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-4_6.json",
+   "name": "朝露公馆(3D)-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 59,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-4_5.json",
+   "name": "朝露公馆(3D)-5",
+   "author": "喵不可言,和月",
+   "version": "default",
+   "map_len": 49,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-4_4.json",
+   "name": "朝露公馆-4",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-4_3.json",
+   "name": "朝露公馆-3",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-4_2.json",
+   "name": "朝露公馆-2",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 9,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_4-4_1.json",
+   "name": "朝露公馆-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 17,
+   "start_len": 9
+  },
+  {
+   "file": "default/map_4-3_9.json",
+   "name": "酒店梦境(3D)-9",
+   "author": "和月",
+   "version": "default",
+   "map_len": 39,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_4-3_8.json",
+   "name": "酒店梦境(3D)-8",
+   "author": "和月",
+   "version": "default",
+   "map_len": 97,
+   "start_len": 11
+  },
+  {
+   "file": "default/map_4-3_7.json",
+   "name": "酒店梦境(3D)-7",
+   "author": "和月",
+   "version": "default",
+   "map_len": 84,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-3_6.json",
+   "name": "酒店梦境(3D)-6",
+   "author": "喵不可言,和月",
+   "version": "default",
+   "map_len": 43,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_4-3_5.json",
+   "name": "酒店梦境(3D)-5",
+   "author": "喵不可言,和月",
+   "version": "default",
+   "map_len": 74,
+   "start_len": 10
+  },
+  {
+   "file": "default/map_4-3_4.json",
+   "name": "酒店梦境-4",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-3_3.json",
+   "name": "酒店梦境-3",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-3_2.json",
+   "name": "酒店梦境-2",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-3_1.json",
+   "name": "酒店梦境-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-2_6.json",
+   "name": "稚子的梦-6",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 4,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-2_5.json",
+   "name": "稚子的梦-5",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-2_4.json",
+   "name": "稚子的梦-4",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-2_3.json",
+   "name": "稚子的梦-3",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 52,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-2_2.json",
+   "name": "稚子的梦-2",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-2_1.json",
+   "name": "稚子的梦-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 5,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_4-1_7.json",
+   "name": "筑梦边境-7",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_4-1_6.json",
+   "name": "筑梦边境-6",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-1_5.json",
+   "name": "筑梦边境-5",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 80,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-1_4.json",
+   "name": "筑梦边境-4",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-1_2.json",
+   "name": "筑梦边境-2",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 71,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_4-1_1.json",
+   "name": "筑梦边境-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 18,
+   "start_len": 12
+  },
+  {
+   "file": "default/map_4-0_1.json",
+   "name": "黄金打罐-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_4-0_0.json",
+   "name": "艾迪恩代币-1",
+   "author": "lrwy",
+   "version": "default",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "default/map_3-8_6.json",
+   "name": "幽囚狱-6",
+   "author": "和月",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-8_5.json",
+   "name": "幽囚狱-5",
+   "author": "和月",
+   "version": "default",
+   "map_len": 31,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_3-8_4.json",
+   "name": "幽囚狱-4",
+   "author": "和月",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_3-8_3.json",
+   "name": "幽囚狱-3",
+   "author": "和月",
+   "version": "default",
+   "map_len": 22,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-8_2.json",
+   "name": "幽囚狱-2",
+   "author": "和月",
+   "version": "default",
+   "map_len": 19,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-8_1.json",
+   "name": "幽囚狱-1",
+   "author": "和月",
+   "version": "default",
+   "map_len": 6,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_3-7_6.json",
+   "name": "鳞渊境-6",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-7_5.json",
+   "name": "鳞渊境-5",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-7_4.json",
+   "name": "鳞渊境-4",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-7_3.json",
+   "name": "鳞渊境-3",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-7_2.json",
+   "name": "鳞渊境-2",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-7_1.json",
+   "name": "鳞渊境-1",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_3-6_7.json",
+   "name": "丹鼎司-7",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-6_6.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-6_5.json",
+   "name": "丹鼎司-5",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_3-6_4.json",
+   "name": "丹鼎司-4",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-6_3.json",
+   "name": "丹鼎司-3",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-6_2.json",
+   "name": "丹鼎司-3",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-6_1.json",
+   "name": "丹鼎司-1",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 22,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_3-5_2.json",
+   "name": "绥  园-2",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 35,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-5_1.json",
+   "name": "绥  园-1",
+   "author": "喵不可言,龙女姬",
+   "version": "default",
+   "map_len": 15,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_3-4_6.json",
+   "name": "工造司-6",
+   "author": "龙女姬,小明,lrwy,和月",
+   "version": "default",
+   "map_len": 19,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-4_5.json",
+   "name": "工造司-5",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 48,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-4_4.json",
+   "name": "工造司-4",
+   "author": "雪见璃,小明",
+   "version": "default",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-4_3.json",
+   "name": "工造司-3",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-4_2.json",
+   "name": "工造司-2",
+   "author": "雪见璃,小明",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-4_1.json",
+   "name": "工造司-1",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 19,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_3-3_5.json",
+   "name": "太卜司-5",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "default",
+   "map_len": 27,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_3-3_4.json",
+   "name": "太卜司-4",
+   "author": "雪见璃,夜里无星",
+   "version": "default",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_3-3_3.json",
+   "name": "太卜司-3",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "default",
+   "map_len": 47,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-3_2.json",
+   "name": "太卜司-2",
+   "author": "雪见璃,夜里无星,lrwy",
+   "version": "default",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-3_1.json",
+   "name": "太卜司-1",
+   "author": "雪见璃,夜里无星",
+   "version": "default",
+   "map_len": 17,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_3-2_6.json",
+   "name": "迴星港-6",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 27,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-2_5.json",
+   "name": "迴星港-5",
+   "author": "雪见璃,lrwy",
+   "version": "default",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-2_4.json",
+   "name": "迴星港-4",
+   "author": "忘了",
+   "version": "default",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-2_3.json",
+   "name": "迴星港-3",
+   "author": "夜里无星,StarryWind",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-2_2.json",
+   "name": "迴星港-2",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-2_1.json",
+   "name": "迴星港-1",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 36,
+   "start_len": 5
+  },
+  {
+   "file": "default/map_3-1_6.json",
+   "name": "流云渡-6",
+   "author": "龙女姬,小明",
+   "version": "default",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-1_5.json",
+   "name": "流云渡-5",
+   "author": "龙女姬,小明",
+   "version": "default",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-1_4.json",
+   "name": "流云渡-4",
+   "author": "雪见璃,小明",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-1_3.json",
+   "name": "流云渡-3",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 0,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-1_2.json",
+   "name": "流云渡-2",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_3-1_1.json",
+   "name": "流云渡-1",
+   "author": "雪见璃",
+   "version": "default",
+   "map_len": 31,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_3-0_2.json",
+   "name": "过期邮包-1",
+   "author": "lrwy",
+   "version": "default",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "default/map_3-0_1.json",
+   "name": "零食合成-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 3,
+   "start_len": 13
+  },
+  {
+   "file": "default/map_3-0_0.json",
+   "name": "零食材料-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 2,
+   "start_len": 31
+  },
+  {
+   "file": "default/map_2-7_3.json",
+   "name": "机器聚落-3",
+   "author": "夜里无星,小明,和月",
+   "version": "default",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-7_2.json",
+   "name": "机器聚落-2",
+   "author": "夜里无星,小明",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-7_1.json",
+   "name": "机器聚落-1",
+   "author": "夜里无星,小明",
+   "version": "default",
+   "map_len": 4,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_2-6_2.json",
+   "name": "铆钉镇-2",
+   "author": "夜里无星,小明",
+   "version": "default",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-6_1.json",
+   "name": "铆钉镇-1",
+   "author": "夜里无星,小明",
+   "version": "default",
+   "map_len": 18,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_2-5_4.json",
+   "name": "大矿区-4",
+   "author": "夜里无星,小明",
+   "version": "default",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_2-5_3.json",
+   "name": "大矿区-3",
+   "author": "夜里无星,小明",
+   "version": "default",
+   "map_len": 15,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_2-5_2.json",
+   "name": "大矿区-2",
+   "author": "Starry-Wind",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_2-5_1.json",
+   "name": "大矿区-1",
+   "author": "夜里无星,雪见璃,小明",
+   "version": "default",
+   "map_len": 19,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_2-4_2.json",
+   "name": "永冬岭-2",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-4_1.json",
+   "name": "永冬岭-1",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_2-3_5.json",
+   "name": "残响回廊-5",
+   "author": "雪见璃,Starry-Wind,小明",
+   "version": "default",
+   "map_len": 26,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-3_4.json",
+   "name": "残响回廊-4",
+   "author": "Starry-Wind,CDCP,lrwy",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-3_3.json",
+   "name": "残响回廊-3",
+   "author": "Starry-Wind,五月,雪见璃,小明,CDCP",
+   "version": "default",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_2-3_2.json",
+   "name": "残响回廊-2",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_2-3_1.json",
+   "name": "残响回廊-1",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_2-2_3.json",
+   "name": "边缘道路-3",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_2-2_2.json",
+   "name": "边缘道路-2",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-2_1.json",
+   "name": "边缘道路-1",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 6
+  },
+  {
+   "file": "default/map_2-1_2.json",
+   "name": "城郊雪原-2",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_2-1_1.json",
+   "name": "城郊雪原-1",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "default",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_1-4_2.json",
+   "name": "禁闭舱段-2",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_1-4_1.json",
+   "name": "禁闭舱段-1",
+   "author": "喵不可言",
+   "version": "default",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_1-3_3.json",
+   "name": "支援舱段-3",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "default",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_1-3_2.json",
+   "name": "支援舱段-2",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_1-3_1.json",
+   "name": "支援舱段-1",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_1-2_3.json",
+   "name": "收容舱段-3",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_1-2_2.json",
+   "name": "收容舱段-2",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "default/map_1-2_1.json",
+   "name": "收容舱段-1",
+   "author": "Starry-Wind,小明",
+   "version": "default",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "default/map_1-1_1.json",
+   "name": "基座舱段-1",
+   "author": "Starry-Wind,小明,lrwy",
+   "version": "default",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "default/map_1-1_0.json",
+   "name": "主控舱段-1",
+   "author": "lrwy",
+   "version": "default",
+   "map_len": 0,
+   "start_len": 12
+  },
+  {
+   "file": "SilverWolfLv999/map_6-5_2.json",
+   "name": "世界尽头酒馆-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 26,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-5_1.json",
+   "name": "世界尽头酒馆-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 18,
+   "start_len": 9
+  },
+  {
+   "file": "SilverWolfLv999/map_6-4_2.json",
+   "name": "珠星大厦-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-4_1.json",
+   "name": "珠星大厦-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 33,
+   "start_len": 8
+  },
+  {
+   "file": "SilverWolfLv999/map_6-3_5.json",
+   "name": "观览云岛站-5",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 19,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-3_4.json",
+   "name": "观览云岛站-4",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 19,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-3_3.json",
+   "name": "观览云岛站-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-3_1.json",
+   "name": "观览云岛站-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 27,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_6-2_2.json",
+   "name": "绘世学院-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-2_1.json",
+   "name": "绘世学院-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 27,
+   "start_len": 8
+  },
+  {
+   "file": "SilverWolfLv999/map_6-1_3.json",
+   "name": "鸽川区-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-1_2.json",
+   "name": "鸽川区-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_6-1_1.json",
+   "name": "鸽川区-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 9
+  },
+  {
+   "file": "SilverWolfLv999/map_5-9_3.json",
+   "name": "穹顶关塞-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-9_2.json",
+   "name": "穹顶关塞-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 40,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-9_1.json",
+   "name": "穹顶关塞-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 52,
+   "start_len": 8
+  },
+  {
+   "file": "SilverWolfLv999/map_5-8_6.json",
+   "name": "云端遗堡-6",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 9,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-8_5.json",
+   "name": "云端遗堡-5",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 70,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_5-8_4.json",
+   "name": "云端遗堡-4",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-8_3.json",
+   "name": "云端遗堡-3",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-8_2.json",
+   "name": "云端遗堡-2",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 42,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_5-8_1.json",
+   "name": "云端遗堡-1",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 49,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_5-7_6.json",
+   "name": "龙骸古城-6",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 61,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-7_5.json",
+   "name": "龙骸古城-5",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 82,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-7_4.json",
+   "name": "龙骸古城-4",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 30,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_5-7_3.json",
+   "name": "龙骸古城-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 19,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_5-7_2.json",
+   "name": "龙骸古城-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 25,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-7_1.json",
+   "name": "龙骸古城-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 28,
+   "start_len": 12
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_7.json",
+   "name": "无晖祈堂-7",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_6.json",
+   "name": "无晖祈堂-6",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_5.json",
+   "name": "无晖祈堂-5",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 6,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_4.json",
+   "name": "无晖祈堂-4",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 15,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_3.json",
+   "name": "无晖祈堂-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 21,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_2.json",
+   "name": "无晖祈堂-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 11,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-6_1.json",
+   "name": "无晖祈堂-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 15,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_5-5_4.json",
+   "name": "呓语密林-4",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_5-5_3.json",
+   "name": "呓语密林-3",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-5_2.json",
+   "name": "呓语密林-2",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_5-5_1.json",
+   "name": "呓语密林-1",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-4_6.json",
+   "name": "神谕圣地-6",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 54,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-4_5.json",
+   "name": "神谕圣地-5",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 45,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-4_4.json",
+   "name": "神谕圣地-4",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 41,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-4_3.json",
+   "name": "神谕圣地-3",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 37,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-4_2.json",
+   "name": "神谕圣地-2",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 194,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-4_1.json",
+   "name": "神谕圣地-1",
+   "author": "和月,smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 152,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_5-3_3.json",
+   "name": "命运重渊-3",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 32,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-3_2.json",
+   "name": "命运重渊-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-3_1.json",
+   "name": "命运重渊-1",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 25,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_9.json",
+   "name": "纷争荒墟-9",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 26,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_8.json",
+   "name": "纷争荒墟-8",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 74,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_7.json",
+   "name": "纷争荒墟-7",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_6.json",
+   "name": "纷争荒墟-6",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_5.json",
+   "name": "纷争荒墟-5",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 19,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_4.json",
+   "name": "纷争荒墟-4",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 28,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_3.json",
+   "name": "纷争荒墟-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 31,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_2.json",
+   "name": "纷争荒墟-2",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 40,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_14.json",
+   "name": "纷争荒墟-14",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 23,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_13.json",
+   "name": "纷争荒墟-13",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 53,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_12.json",
+   "name": "纷争荒墟-12",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_11.json",
+   "name": "纷争荒墟-11",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 15,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_10.json",
+   "name": "纷争荒墟-10",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 15,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-2_1.json",
+   "name": "纷争荒墟-1",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 119,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_5-1_4.json",
+   "name": "浴血战端-4",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 29,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-1_3.json",
+   "name": "浴血战端-3",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_5-1_2.json",
+   "name": "浴血战端-2",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 57,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_5-1_1.json",
+   "name": "浴血战端-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 20,
+   "start_len": 8
+  },
+  {
+   "file": "SilverWolfLv999/map_5-0_0.json",
+   "name": "收集记忆代币-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 14,
+   "start_len": 12
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_9.json",
+   "name": "大剧院（3D）-9",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 87,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_8.json",
+   "name": "大剧院（3D）-8",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 85,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_7.json",
+   "name": "大剧院-7",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_6.json",
+   "name": "大剧院-6",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 35,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_5.json",
+   "name": "大剧院-5",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_4.json",
+   "name": "大剧院-4",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 32,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_3.json",
+   "name": "大剧院-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 63,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_2.json",
+   "name": "大剧院-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_10.json",
+   "name": "大剧院（3D）-10",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 189,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-7_1.json",
+   "name": "大剧院-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 57,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_4-6_4.json",
+   "name": "热砂海选会场-4",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 32,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-6_3.json",
+   "name": "热砂海选会场-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 26,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-6_2.json",
+   "name": "热砂海选会场-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 48,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-6_1.json",
+   "name": "热砂海选会场-1",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 31,
+   "start_len": 8
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_9.json",
+   "name": "影视乐园-9",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_8.json",
+   "name": "影视乐园-8",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_7.json",
+   "name": "影视乐园-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_6.json",
+   "name": "影视乐园-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_5.json",
+   "name": "影视乐园-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 13,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_4.json",
+   "name": "影视乐园-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 52,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_3.json",
+   "name": "影视乐园-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_2.json",
+   "name": "影视乐园-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 47,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_10.json",
+   "name": "影视乐园-10",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 60,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-5_1.json",
+   "name": "影视乐园-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 2,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_7.json",
+   "name": "朝露公馆-7",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 73,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_6.json",
+   "name": "朝露公馆-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 34,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_5.json",
+   "name": "朝露公馆-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 164,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_4.json",
+   "name": "朝露公馆-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 108,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_3.json",
+   "name": "朝露公馆-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 4,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_2.json",
+   "name": "朝露公馆-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-4_1.json",
+   "name": "朝露公馆-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 48,
+   "start_len": 10
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_9.json",
+   "name": "酒店梦境-9",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_8.json",
+   "name": "酒店梦境-8",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 33,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_7.json",
+   "name": "酒店梦境-7",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_6.json",
+   "name": "酒店梦境-6",
+   "author": "喵不可言,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 42,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_5.json",
+   "name": "酒店梦境-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_4.json",
+   "name": "酒店梦境-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 40,
+   "start_len": 9
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_3.json",
+   "name": "酒店梦境-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_16.json",
+   "name": "酒店梦境-16",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 84,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_15.json",
+   "name": "酒店梦境-15",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 122,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_14.json",
+   "name": "酒店梦境-14",
+   "author": "喵不可言,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 83,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_13.json",
+   "name": "酒店梦境-13",
+   "author": "喵不可言,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 97,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_12.json",
+   "name": "酒店梦境-12",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 5,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_11.json",
+   "name": "酒店梦境-11",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 47,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_10.json",
+   "name": "酒店梦境-10",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-3_1.json",
+   "name": "酒店梦境-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 23,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_4-2_4.json",
+   "name": "稚子的梦-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 26,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-2_3.json",
+   "name": "稚子的梦-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-2_2.json",
+   "name": "稚子的梦-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 118,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-2_1.json",
+   "name": "稚子的梦-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 10,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_9.json",
+   "name": "筑梦边境-9",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 25,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_8.json",
+   "name": "筑梦边境-8",
+   "author": "喵不可言,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 53,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_7.json",
+   "name": "筑梦边境-7",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_6.json",
+   "name": "筑梦边境-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 42,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_5.json",
+   "name": "筑梦边境-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_4.json",
+   "name": "筑梦边境-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_3.json",
+   "name": "筑梦边境-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 105,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_2.json",
+   "name": "筑梦边境-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_4-1_1.json",
+   "name": "筑梦边境-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 27,
+   "start_len": 12
+  },
+  {
+   "file": "SilverWolfLv999/map_4-0_1.json",
+   "name": "黄金打罐-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_4-0_0.json",
+   "name": "艾迪恩代币-1",
+   "author": "lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_8.json",
+   "name": "幽囚狱-8",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 25,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_7.json",
+   "name": "幽囚狱-7",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 23,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_6.json",
+   "name": "幽囚狱-6",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_5.json",
+   "name": "幽囚狱-5",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 66,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_4.json",
+   "name": "幽囚狱-4",
+   "author": "smjes3,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 45,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_3.json",
+   "name": "幽囚狱-3",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 43,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_2.json",
+   "name": "幽囚狱-2",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-8_1.json",
+   "name": "幽囚狱-1",
+   "author": "smjes3",
+   "version": "SilverWolfLv999",
+   "map_len": 31,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_9.json",
+   "name": "鳞渊境-9",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 46,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_8.json",
+   "name": "鳞渊境-8",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_7.json",
+   "name": "鳞渊境-7",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_6.json",
+   "name": "鳞渊境-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_5.json",
+   "name": "鳞渊境-5",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 25,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_4.json",
+   "name": "鳞渊境-4",
+   "author": "喵不可言,龙女姬,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 59,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_3.json",
+   "name": "鳞渊境-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 2,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_2.json",
+   "name": "鳞渊境-2",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-7_1.json",
+   "name": "鳞渊境-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_9.json",
+   "name": "丹鼎司-9",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_8.json",
+   "name": "丹鼎司-8",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_7.json",
+   "name": "丹鼎司-7",
+   "author": "喵不可言,龙女姬,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 30,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_6.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_5.json",
+   "name": "丹鼎司-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_4.json",
+   "name": "丹鼎司-4",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 74,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_3.json",
+   "name": "丹鼎司-3",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_2.json",
+   "name": "丹鼎司-2",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_10.json",
+   "name": "丹鼎司-10",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 30,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-6_1.json",
+   "name": "丹鼎司-1",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 79,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_3-5_6.json",
+   "name": "绥  园-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 9,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-5_5.json",
+   "name": "绥  园-5",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 40,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-5_4.json",
+   "name": "绥  园-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-5_3.json",
+   "name": "绥  园-3",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-5_2.json",
+   "name": "绥  园-2",
+   "author": "喵不可言,龙女姬",
+   "version": "SilverWolfLv999",
+   "map_len": 78,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-5_1.json",
+   "name": "绥  园-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_7.json",
+   "name": "工造司（金人）-7",
+   "author": "喵不可言,雪见璃,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 29,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_6.json",
+   "name": "工造司-6",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 75,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_5.json",
+   "name": "工造司-5",
+   "author": "喵不可言,龙女姬,小明,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 44,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_4.json",
+   "name": "工造司-4",
+   "author": "喵不可言,雪见璃,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 71,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_3.json",
+   "name": "工造司-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_2.json",
+   "name": "工造司-2",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 23,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-4_1.json",
+   "name": "工造司-1",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 55,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_3-3_6.json",
+   "name": "太卜司-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-3_5.json",
+   "name": "太卜司-5",
+   "author": "喵不可言,雪见璃,夜里无星,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 38,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_3-3_4.json",
+   "name": "太卜司-4",
+   "author": "喵不可言,雪见璃,夜里无星,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 54,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-3_3.json",
+   "name": "太卜司-3",
+   "author": "喵不可言,雪见璃,夜里无星,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_3-3_2.json",
+   "name": "太卜司-2",
+   "author": "喵不可言,雪见璃,夜里无星",
+   "version": "SilverWolfLv999",
+   "map_len": 63,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_3-3_1.json",
+   "name": "太卜司-1",
+   "author": "喵不可言,雪见璃,夜里无星",
+   "version": "SilverWolfLv999",
+   "map_len": 67,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_7.json",
+   "name": "迴星港-7",
+   "author": "喵不可言,夜里无星,StarryWind",
+   "version": "SilverWolfLv999",
+   "map_len": 41,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_6.json",
+   "name": "迴星港-6",
+   "author": "喵不可言,忘了",
+   "version": "SilverWolfLv999",
+   "map_len": 49,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_5.json",
+   "name": "迴星港-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 44,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_4.json",
+   "name": "迴星港-4",
+   "author": "喵不可言,雪见璃,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 40,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_3.json",
+   "name": "迴星港-3",
+   "author": "喵不可言,雪见璃,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 6,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_2.json",
+   "name": "迴星港-2",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 6,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-2_1.json",
+   "name": "迴星港-1",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 49,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_8.json",
+   "name": "流云渡-8",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 2,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_7.json",
+   "name": "流云渡-7",
+   "author": "喵不可言,龙女姬,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 19,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_6.json",
+   "name": "流云渡-6",
+   "author": "喵不可言,雪见璃,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_5.json",
+   "name": "流云渡-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_4.json",
+   "name": "流云渡-4",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_3.json",
+   "name": "流云渡-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_2.json",
+   "name": "流云渡-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 38,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_3-1_1.json",
+   "name": "流云渡-1",
+   "author": "喵不可言,雪见璃",
+   "version": "SilverWolfLv999",
+   "map_len": 24,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_3-0_2.json",
+   "name": "过期邮包-1",
+   "author": "lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "SilverWolfLv999/map_3-0_1.json",
+   "name": "零食合成-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 13
+  },
+  {
+   "file": "SilverWolfLv999/map_3-0_0.json",
+   "name": "零食材料-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 2,
+   "start_len": 31
+  },
+  {
+   "file": "SilverWolfLv999/map_2-7_5.json",
+   "name": "机器聚落-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-7_4.json",
+   "name": "机器聚落-4",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-7_3.json",
+   "name": "机器聚落-3",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 46,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-7_2.json",
+   "name": "机器聚落-2",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-7_1.json",
+   "name": "机器聚落-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 5,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_2-6_3.json",
+   "name": "铆钉镇-3",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-6_2.json",
+   "name": "铆钉镇-2",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 40,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-6_1.json",
+   "name": "铆钉镇-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 2,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_8.json",
+   "name": "大矿区-8",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 11,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_7.json",
+   "name": "大矿区-7",
+   "author": "喵不可言,Starry-Wind",
+   "version": "SilverWolfLv999",
+   "map_len": 19,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_6.json",
+   "name": "大矿区-6",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_5.json",
+   "name": "大矿区-5",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 29,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_4.json",
+   "name": "大矿区-4",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 45,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_3.json",
+   "name": "大矿区-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 4,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_2.json",
+   "name": "大矿区-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 1,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-5_1.json",
+   "name": "大矿区-1",
+   "author": "喵不可言,夜里无星,雪见璃,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 36,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_2-4_3.json",
+   "name": "永冬岭-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 2,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-4_2.json",
+   "name": "永冬岭-2",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 13,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-4_1.json",
+   "name": "永冬岭-1",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_2-3_6.json",
+   "name": "残响回廊-6",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 18,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-3_5.json",
+   "name": "残响回廊-5",
+   "author": "喵不可言,雪见璃,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 80,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-3_4.json",
+   "name": "残响回廊-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 4,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-3_3.json",
+   "name": "残响回廊-3",
+   "author": "喵不可言,Starry-Wind,五月,雪见璃,小明,CDCP",
+   "version": "SilverWolfLv999",
+   "map_len": 61,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-3_2.json",
+   "name": "残响回廊-2",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-3_1.json",
+   "name": "残响回廊-1",
+   "author": "喵不可言,Starry-Wind,CDCP,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 14,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_2-2_5.json",
+   "name": "边缘道路-5",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-2_4.json",
+   "name": "边缘道路-4",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-2_3.json",
+   "name": "边缘道路-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 36,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_2-2_2.json",
+   "name": "边缘道路-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-2_1.json",
+   "name": "边缘道路-1",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 29,
+   "start_len": 6
+  },
+  {
+   "file": "SilverWolfLv999/map_2-1_4.json",
+   "name": "城郊雪原-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_2-1_3.json",
+   "name": "城郊雪原-3",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 26,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-1_2.json",
+   "name": "城郊雪原-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_2-1_1.json",
+   "name": "城郊雪原-1",
+   "author": "喵不可言,Starry-Wind,小明,lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 38,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_1-4_3.json",
+   "name": "禁闭舱段-3",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_1-4_2.json",
+   "name": "禁闭舱段-2",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_1-4_1.json",
+   "name": "禁闭舱段-1",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 29,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_1-3_4.json",
+   "name": "支援舱段-4",
+   "author": "喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_1-3_3.json",
+   "name": "支援舱段-3",
+   "author": "Starry-Wind,小明,喵不可言,lrwy,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_1-3_2.json",
+   "name": "支援舱段-2",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "SilverWolfLv999",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_1-3_1.json",
+   "name": "支援舱段-1",
+   "author": "Starry-Wind,喵不可言,小明,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 16,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_1-2_4.json",
+   "name": "收容舱段-4",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "SilverWolfLv999/map_1-2_3.json",
+   "name": "收容舱段-3",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 22,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_1-2_2.json",
+   "name": "收容舱段-2",
+   "author": "Starry-Wind,小明,喵不可言,ibukiizumi",
+   "version": "SilverWolfLv999",
+   "map_len": 23,
+   "start_len": 3
+  },
+  {
+   "file": "SilverWolfLv999/map_1-2_1.json",
+   "name": "收容舱段-1",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "SilverWolfLv999/map_1-1_1.json",
+   "name": "基座舱段-1",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "SilverWolfLv999",
+   "map_len": 18,
+   "start_len": 7
+  },
+  {
+   "file": "SilverWolfLv999/map_1-1_0.json",
+   "name": "主控舱段-1",
+   "author": "lrwy",
+   "version": "SilverWolfLv999",
+   "map_len": 0,
+   "start_len": 12
+  },
+  {
+   "file": "HuangQuan/map_6-5_2.json",
+   "name": "世界尽头酒馆-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 24,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-5_1.json",
+   "name": "世界尽头酒馆-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 16,
+   "start_len": 9
+  },
+  {
+   "file": "HuangQuan/map_6-4_2.json",
+   "name": "珠星大厦-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-4_1.json",
+   "name": "珠星大厦-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 31,
+   "start_len": 8
+  },
+  {
+   "file": "HuangQuan/map_6-3_5.json",
+   "name": "观览云岛站-5",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-3_4.json",
+   "name": "观览云岛站-4",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-3_3.json",
+   "name": "观览云岛站-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-3_1.json",
+   "name": "观览云岛站-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 25,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_6-2_2.json",
+   "name": "绘世学院-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-2_1.json",
+   "name": "绘世学院-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 25,
+   "start_len": 8
+  },
+  {
+   "file": "HuangQuan/map_6-1_3.json",
+   "name": "鸽川区-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-1_2.json",
+   "name": "鸽川区-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_6-1_1.json",
+   "name": "鸽川区-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 9
+  },
+  {
+   "file": "HuangQuan/map_5-9_3.json",
+   "name": "穹顶关塞-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-9_2.json",
+   "name": "穹顶关塞-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 38,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-9_1.json",
+   "name": "穹顶关塞-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 50,
+   "start_len": 8
+  },
+  {
+   "file": "HuangQuan/map_5-8_6.json",
+   "name": "云端遗堡-6",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 7,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-8_5.json",
+   "name": "云端遗堡-5",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 68,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_5-8_4.json",
+   "name": "云端遗堡-4",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 6,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-8_3.json",
+   "name": "云端遗堡-3",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-8_2.json",
+   "name": "云端遗堡-2",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 40,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_5-8_1.json",
+   "name": "云端遗堡-1",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 47,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_5-7_6.json",
+   "name": "龙骸古城-6",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 59,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-7_5.json",
+   "name": "龙骸古城-5",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 80,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-7_4.json",
+   "name": "龙骸古城-4",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_5-7_3.json",
+   "name": "龙骸古城-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_5-7_2.json",
+   "name": "龙骸古城-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 23,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-7_1.json",
+   "name": "龙骸古城-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 26,
+   "start_len": 12
+  },
+  {
+   "file": "HuangQuan/map_5-6_7.json",
+   "name": "无晖祈堂-7",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-6_6.json",
+   "name": "无晖祈堂-6",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-6_5.json",
+   "name": "无晖祈堂-5",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 4,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-6_4.json",
+   "name": "无晖祈堂-4",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 13,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-6_3.json",
+   "name": "无晖祈堂-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 19,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-6_2.json",
+   "name": "无晖祈堂-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 9,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-6_1.json",
+   "name": "无晖祈堂-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 13,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_5-5_4.json",
+   "name": "呓语密林-4",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_5-5_3.json",
+   "name": "呓语密林-3",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-5_2.json",
+   "name": "呓语密林-2",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 22,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_5-5_1.json",
+   "name": "呓语密林-1",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-4_6.json",
+   "name": "神谕圣地-6",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 52,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-4_5.json",
+   "name": "神谕圣地-5",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 43,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-4_4.json",
+   "name": "神谕圣地-4",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 39,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-4_3.json",
+   "name": "神谕圣地-3",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 35,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-4_2.json",
+   "name": "神谕圣地-2",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 193,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-4_1.json",
+   "name": "神谕圣地-1",
+   "author": "和月,smjes3",
+   "version": "HuangQuan",
+   "map_len": 150,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_5-3_3.json",
+   "name": "命运重渊-3",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 30,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-3_2.json",
+   "name": "命运重渊-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-3_1.json",
+   "name": "命运重渊-1",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 23,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_5-2_9.json",
+   "name": "纷争荒墟-9",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_8.json",
+   "name": "纷争荒墟-8",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 72,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_7.json",
+   "name": "纷争荒墟-7",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_6.json",
+   "name": "纷争荒墟-6",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_5.json",
+   "name": "纷争荒墟-5",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-2_4.json",
+   "name": "纷争荒墟-4",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 26,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-2_3.json",
+   "name": "纷争荒墟-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 29,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_2.json",
+   "name": "纷争荒墟-2",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 38,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_14.json",
+   "name": "纷争荒墟-14",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 21,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_13.json",
+   "name": "纷争荒墟-13",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 51,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_12.json",
+   "name": "纷争荒墟-12",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_11.json",
+   "name": "纷争荒墟-11",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 13,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_10.json",
+   "name": "纷争荒墟-10",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 13,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-2_1.json",
+   "name": "纷争荒墟-1",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 117,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_5-1_4.json",
+   "name": "浴血战端-4",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 27,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-1_3.json",
+   "name": "浴血战端-3",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_5-1_2.json",
+   "name": "浴血战端-2",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 55,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_5-1_1.json",
+   "name": "浴血战端-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 18,
+   "start_len": 8
+  },
+  {
+   "file": "HuangQuan/map_5-0_0.json",
+   "name": "收集记忆代币-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 12
+  },
+  {
+   "file": "HuangQuan/map_4-7_9.json",
+   "name": "大剧院（3D）-9",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 85,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-7_8.json",
+   "name": "大剧院（3D）-8",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 83,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_4-7_7.json",
+   "name": "大剧院-7",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-7_6.json",
+   "name": "大剧院-6",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 33,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-7_5.json",
+   "name": "大剧院-5",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-7_4.json",
+   "name": "大剧院-4",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 30,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-7_3.json",
+   "name": "大剧院-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 61,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-7_2.json",
+   "name": "大剧院-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-7_10.json",
+   "name": "大剧院（3D）-10",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 188,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-7_1.json",
+   "name": "大剧院-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 55,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_4-6_4.json",
+   "name": "热砂海选会场-4",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 30,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-6_3.json",
+   "name": "热砂海选会场-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 24,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-6_2.json",
+   "name": "热砂海选会场-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 46,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-6_1.json",
+   "name": "热砂海选会场-1",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 29,
+   "start_len": 8
+  },
+  {
+   "file": "HuangQuan/map_4-5_9.json",
+   "name": "影视乐园-9",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_8.json",
+   "name": "影视乐园-8",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 7,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_7.json",
+   "name": "影视乐园-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_6.json",
+   "name": "影视乐园-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-5_5.json",
+   "name": "影视乐园-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_4.json",
+   "name": "影视乐园-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 51,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_3.json",
+   "name": "影视乐园-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_2.json",
+   "name": "影视乐园-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 45,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_10.json",
+   "name": "影视乐园-10",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 58,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-5_1.json",
+   "name": "影视乐园-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 2,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_4-4_7.json",
+   "name": "朝露公馆-7",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 71,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-4_6.json",
+   "name": "朝露公馆-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 32,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_4-4_5.json",
+   "name": "朝露公馆-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 162,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-4_4.json",
+   "name": "朝露公馆-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 106,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-4_3.json",
+   "name": "朝露公馆-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 4,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-4_2.json",
+   "name": "朝露公馆-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-4_1.json",
+   "name": "朝露公馆-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 46,
+   "start_len": 10
+  },
+  {
+   "file": "HuangQuan/map_4-3_9.json",
+   "name": "酒店梦境-9",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-3_8.json",
+   "name": "酒店梦境-8",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 32,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-3_7.json",
+   "name": "酒店梦境-7",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 9,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-3_6.json",
+   "name": "酒店梦境-6",
+   "author": "喵不可言,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 40,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-3_5.json",
+   "name": "酒店梦境-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-3_4.json",
+   "name": "酒店梦境-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 38,
+   "start_len": 9
+  },
+  {
+   "file": "HuangQuan/map_4-3_3.json",
+   "name": "酒店梦境-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-3_16.json",
+   "name": "酒店梦境-16",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 83,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-3_15.json",
+   "name": "酒店梦境-15",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 121,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_4-3_14.json",
+   "name": "酒店梦境-14",
+   "author": "喵不可言,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 81,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-3_13.json",
+   "name": "酒店梦境-13",
+   "author": "喵不可言,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 95,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-3_12.json",
+   "name": "酒店梦境-12",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_4-3_11.json",
+   "name": "酒店梦境-11",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 45,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-3_10.json",
+   "name": "酒店梦境-10",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-3_1.json",
+   "name": "酒店梦境-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 21,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_4-2_4.json",
+   "name": "稚子的梦-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 24,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-2_3.json",
+   "name": "稚子的梦-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 18,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-2_2.json",
+   "name": "稚子的梦-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 116,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-2_1.json",
+   "name": "稚子的梦-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 8,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_4-1_9.json",
+   "name": "筑梦边境-9",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-1_8.json",
+   "name": "筑梦边境-8",
+   "author": "喵不可言,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 51,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-1_7.json",
+   "name": "筑梦边境-7",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-1_6.json",
+   "name": "筑梦边境-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 40,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-1_5.json",
+   "name": "筑梦边境-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_4-1_4.json",
+   "name": "筑梦边境-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-1_3.json",
+   "name": "筑梦边境-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 103,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-1_2.json",
+   "name": "筑梦边境-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_4-1_1.json",
+   "name": "筑梦边境-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 25,
+   "start_len": 12
+  },
+  {
+   "file": "HuangQuan/map_4-0_1.json",
+   "name": "黄金打罐-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_4-0_0.json",
+   "name": "艾迪恩代币-1",
+   "author": "lrwy",
+   "version": "HuangQuan",
+   "map_len": 0,
+   "start_len": 18
+  },
+  {
+   "file": "HuangQuan/map_3-8_8.json",
+   "name": "幽囚狱-8",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 23,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_3-8_7.json",
+   "name": "幽囚狱-7",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-8_6.json",
+   "name": "幽囚狱-6",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-8_5.json",
+   "name": "幽囚狱-5",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 64,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-8_4.json",
+   "name": "幽囚狱-4",
+   "author": "smjes3,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 43,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_3-8_3.json",
+   "name": "幽囚狱-3",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 41,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-8_2.json",
+   "name": "幽囚狱-2",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-8_1.json",
+   "name": "幽囚狱-1",
+   "author": "smjes3",
+   "version": "HuangQuan",
+   "map_len": 29,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_3-7_9.json",
+   "name": "鳞渊境-9",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 44,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_8.json",
+   "name": "鳞渊境-8",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_7.json",
+   "name": "鳞渊境-7",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_6.json",
+   "name": "鳞渊境-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_5.json",
+   "name": "鳞渊境-5",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 23,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_4.json",
+   "name": "鳞渊境-4",
+   "author": "喵不可言,龙女姬,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 58,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_3.json",
+   "name": "鳞渊境-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 2,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_2.json",
+   "name": "鳞渊境-2",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-7_1.json",
+   "name": "鳞渊境-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_3-6_9.json",
+   "name": "丹鼎司-9",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 4,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_8.json",
+   "name": "丹鼎司-8",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 12,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_7.json",
+   "name": "丹鼎司-7",
+   "author": "喵不可言,龙女姬,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_6.json",
+   "name": "丹鼎司-6",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 8,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_3-6_5.json",
+   "name": "丹鼎司-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_4.json",
+   "name": "丹鼎司-4",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 72,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_3.json",
+   "name": "丹鼎司-3",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_3-6_2.json",
+   "name": "丹鼎司-2",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 22,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_10.json",
+   "name": "丹鼎司-10",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-6_1.json",
+   "name": "丹鼎司-1",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 77,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_3-5_6.json",
+   "name": "绥  园-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 9,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-5_5.json",
+   "name": "绥  园-5",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 38,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-5_4.json",
+   "name": "绥  园-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-5_3.json",
+   "name": "绥  园-3",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-5_2.json",
+   "name": "绥  园-2",
+   "author": "喵不可言,龙女姬",
+   "version": "HuangQuan",
+   "map_len": 76,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-5_1.json",
+   "name": "绥  园-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_3-4_7.json",
+   "name": "工造司（金人）-7",
+   "author": "喵不可言,雪见璃,小明",
+   "version": "HuangQuan",
+   "map_len": 28,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-4_6.json",
+   "name": "工造司-6",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 73,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-4_5.json",
+   "name": "工造司-5",
+   "author": "喵不可言,龙女姬,小明,lrwy",
+   "version": "HuangQuan",
+   "map_len": 42,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-4_4.json",
+   "name": "工造司-4",
+   "author": "喵不可言,雪见璃,小明",
+   "version": "HuangQuan",
+   "map_len": 69,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-4_3.json",
+   "name": "工造司-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-4_2.json",
+   "name": "工造司-2",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-4_1.json",
+   "name": "工造司-1",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 53,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_3-3_6.json",
+   "name": "太卜司-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-3_5.json",
+   "name": "太卜司-5",
+   "author": "喵不可言,雪见璃,夜里无星,lrwy",
+   "version": "HuangQuan",
+   "map_len": 36,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_3-3_4.json",
+   "name": "太卜司-4",
+   "author": "喵不可言,雪见璃,夜里无星,lrwy",
+   "version": "HuangQuan",
+   "map_len": 52,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-3_3.json",
+   "name": "太卜司-3",
+   "author": "喵不可言,雪见璃,夜里无星,lrwy",
+   "version": "HuangQuan",
+   "map_len": 25,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_3-3_2.json",
+   "name": "太卜司-2",
+   "author": "喵不可言,雪见璃,夜里无星",
+   "version": "HuangQuan",
+   "map_len": 61,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_3-3_1.json",
+   "name": "太卜司-1",
+   "author": "喵不可言,雪见璃,夜里无星",
+   "version": "HuangQuan",
+   "map_len": 65,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_3-2_7.json",
+   "name": "迴星港-7",
+   "author": "喵不可言,夜里无星,StarryWind",
+   "version": "HuangQuan",
+   "map_len": 39,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-2_6.json",
+   "name": "迴星港-6",
+   "author": "喵不可言,忘了",
+   "version": "HuangQuan",
+   "map_len": 47,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-2_5.json",
+   "name": "迴星港-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 42,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-2_4.json",
+   "name": "迴星港-4",
+   "author": "喵不可言,雪见璃,lrwy",
+   "version": "HuangQuan",
+   "map_len": 38,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_3-2_3.json",
+   "name": "迴星港-3",
+   "author": "喵不可言,雪见璃,lrwy",
+   "version": "HuangQuan",
+   "map_len": 6,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_3-2_2.json",
+   "name": "迴星港-2",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-2_1.json",
+   "name": "迴星港-1",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 47,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_3-1_8.json",
+   "name": "流云渡-8",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 2,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_7.json",
+   "name": "流云渡-7",
+   "author": "喵不可言,龙女姬,小明",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_6.json",
+   "name": "流云渡-6",
+   "author": "喵不可言,雪见璃,小明",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_5.json",
+   "name": "流云渡-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_4.json",
+   "name": "流云渡-4",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_3.json",
+   "name": "流云渡-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_2.json",
+   "name": "流云渡-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 37,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_3-1_1.json",
+   "name": "流云渡-1",
+   "author": "喵不可言,雪见璃",
+   "version": "HuangQuan",
+   "map_len": 23,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_3-0_2.json",
+   "name": "过期邮包-1",
+   "author": "lrwy",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 18
+  },
+  {
+   "file": "HuangQuan/map_3-0_1.json",
+   "name": "零食合成-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 13
+  },
+  {
+   "file": "HuangQuan/map_3-0_0.json",
+   "name": "零食材料-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 2,
+   "start_len": 31
+  },
+  {
+   "file": "HuangQuan/map_2-7_5.json",
+   "name": "机器聚落-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-7_4.json",
+   "name": "机器聚落-4",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-7_3.json",
+   "name": "机器聚落-3",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 44,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-7_2.json",
+   "name": "机器聚落-2",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-7_1.json",
+   "name": "机器聚落-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 5,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_2-6_3.json",
+   "name": "铆钉镇-3",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 15,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-6_2.json",
+   "name": "铆钉镇-2",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 39,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-6_1.json",
+   "name": "铆钉镇-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 2,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_2-5_8.json",
+   "name": "大矿区-8",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_2-5_7.json",
+   "name": "大矿区-7",
+   "author": "喵不可言,Starry-Wind",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-5_6.json",
+   "name": "大矿区-6",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 7,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-5_5.json",
+   "name": "大矿区-5",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 27,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-5_4.json",
+   "name": "大矿区-4",
+   "author": "喵不可言,夜里无星,小明",
+   "version": "HuangQuan",
+   "map_len": 43,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_2-5_3.json",
+   "name": "大矿区-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 4,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-5_2.json",
+   "name": "大矿区-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 1,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-5_1.json",
+   "name": "大矿区-1",
+   "author": "喵不可言,夜里无星,雪见璃,小明",
+   "version": "HuangQuan",
+   "map_len": 34,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_2-4_3.json",
+   "name": "永冬岭-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 2,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-4_2.json",
+   "name": "永冬岭-2",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 11,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-4_1.json",
+   "name": "永冬岭-1",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 12,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_2-3_6.json",
+   "name": "残响回廊-6",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 17,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-3_5.json",
+   "name": "残响回廊-5",
+   "author": "喵不可言,雪见璃,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 78,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-3_4.json",
+   "name": "残响回廊-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 4,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-3_3.json",
+   "name": "残响回廊-3",
+   "author": "喵不可言,Starry-Wind,五月,雪见璃,小明,CDCP",
+   "version": "HuangQuan",
+   "map_len": 59,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-3_2.json",
+   "name": "残响回廊-2",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-3_1.json",
+   "name": "残响回廊-1",
+   "author": "喵不可言,Starry-Wind,CDCP,lrwy",
+   "version": "HuangQuan",
+   "map_len": 12,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_2-2_5.json",
+   "name": "边缘道路-5",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 6,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-2_4.json",
+   "name": "边缘道路-4",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 10,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-2_3.json",
+   "name": "边缘道路-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 34,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_2-2_2.json",
+   "name": "边缘道路-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-2_1.json",
+   "name": "边缘道路-1",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 28,
+   "start_len": 6
+  },
+  {
+   "file": "HuangQuan/map_2-1_4.json",
+   "name": "城郊雪原-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_2-1_3.json",
+   "name": "城郊雪原-3",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 24,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-1_2.json",
+   "name": "城郊雪原-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_2-1_1.json",
+   "name": "城郊雪原-1",
+   "author": "喵不可言,Starry-Wind,小明,lrwy",
+   "version": "HuangQuan",
+   "map_len": 36,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_1-4_3.json",
+   "name": "禁闭舱段-3",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_1-4_2.json",
+   "name": "禁闭舱段-2",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_1-4_1.json",
+   "name": "禁闭舱段-1",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 27,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_1-3_4.json",
+   "name": "支援舱段-4",
+   "author": "喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_1-3_3.json",
+   "name": "支援舱段-3",
+   "author": "Starry-Wind,小明,喵不可言,lrwy,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_1-3_2.json",
+   "name": "支援舱段-2",
+   "author": "喵不可言,Starry-Wind,小明",
+   "version": "HuangQuan",
+   "map_len": 8,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_1-3_1.json",
+   "name": "支援舱段-1",
+   "author": "Starry-Wind,喵不可言,小明,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 14,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_1-2_4.json",
+   "name": "收容舱段-4",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "HuangQuan",
+   "map_len": 3,
+   "start_len": 5
+  },
+  {
+   "file": "HuangQuan/map_1-2_3.json",
+   "name": "收容舱段-3",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "HuangQuan",
+   "map_len": 20,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_1-2_2.json",
+   "name": "收容舱段-2",
+   "author": "Starry-Wind,小明,喵不可言,ibukiizumi",
+   "version": "HuangQuan",
+   "map_len": 21,
+   "start_len": 3
+  },
+  {
+   "file": "HuangQuan/map_1-2_1.json",
+   "name": "收容舱段-1",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "HuangQuan",
+   "map_len": 22,
+   "start_len": 4
+  },
+  {
+   "file": "HuangQuan/map_1-1_1.json",
+   "name": "基座舱段-1",
+   "author": "Starry-Wind,小明,喵不可言",
+   "version": "HuangQuan",
+   "map_len": 16,
+   "start_len": 7
+  },
+  {
+   "file": "HuangQuan/map_1-1_0.json",
+   "name": "主控舱段-1",
+   "author": "lrwy",
+   "version": "HuangQuan",
+   "map_len": 0,
+   "start_len": 12
+  }
+ ]
+}
