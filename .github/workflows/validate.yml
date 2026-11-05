@@ -1,0 +1,67 @@
+name: validate
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate maps and pictures
+        run: |
+          python3 - <<'PY'
+          import json, os, re, sys
+          errors = []
+          FILE_RE = re.compile(r'^map_\d+-\d+_\d+\.json$')
+          BAD_KEY = re.compile(r'[^a-zA-Z0-9_\\\.\-]')
+          pics = set()
+          for root, _, files in os.walk('picture'):
+            for f in files:
+              pics.add(f)
+          maps = 0
+          for root, _, files in os.walk('map'):
+            for f in files:
+              if not FILE_RE.match(f):
+                errors.append(f'bad filename: {root}/{f}')
+                continue
+              maps += 1
+              p = os.path.join(root, f)
+              try:
+                d = json.load(open(p, encoding='utf-8'))
+              except Exception as e:
+                errors.append(f'{p}: invalid JSON {e}')
+                continue
+              if not isinstance(d.get('name'), str) or not d['name'].strip():
+                errors.append(f'{p}: missing name')
+              if not isinstance(d.get('author'), str) or not d['author'].strip():
+                errors.append(f'{p}: missing author')
+              for arr in ('start', 'map'):
+                if not isinstance(d.get(arr), list):
+                  errors.append(f'{p}: {arr} not list')
+                  continue
+                for step in d[arr]:
+                  if not isinstance(step, dict) or len(step) != 1:
+                    errors.append(f'{p}: bad step {step}')
+                    continue
+                  for k, v in step.items():
+                    if BAD_KEY.search(k):
+                      errors.append(f'{p}: bad key {k!r}')
+                    if k.startswith('picture\\'):
+                      ref = k.split('\\')[1]
+                      if ref not in pics:
+                        errors.append(f'{p}: missing picture {ref}')
+                    if not isinstance(v, (int, float)):
+                      errors.append(f'{p}: value not number for {k}')
+          print(f'checked {maps} maps, {len(pics)} pictures')
+          if errors:
+            print('\n'.join(errors[:50]))
+            sys.exit(1)
+          print('OK')
+          PY
+      - name: Auto-merge on PR
+        if: github.event_name == 'pull_request'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge --auto --merge "${{ github.event.pull_request.number }}" || true
