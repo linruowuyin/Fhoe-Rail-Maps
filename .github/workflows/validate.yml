@@ -9,84 +9,69 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      # 校验规则的单一真相源 = 主仓 Fhoe-Rail 的 utils/core/schema.py（纯逻辑，
+      # 无第三方依赖）。地图格式升级（v1/v2 双认，docs/MAP_FORMAT.md）时这里
+      # 自动跟随，不需要在两个仓库各维护一份规则。
+      - name: Checkout Fhoe-Rail (validation rules source of truth)
+        uses: actions/checkout@v4
+        with:
+          repository: linruowuyin/Fhoe-Rail
+          path: fhoe
       - name: Validate maps and pictures
         run: |
           python3 - <<'PY'
           import json, os, re, sys
-          errors = []
+          sys.path.insert(0, os.path.abspath('fhoe'))
+          from utils.core.schema import validate_map
+
           FILE_RE = re.compile(r'^map_\d+-\d+_\d+\.json$')
-          BAD_KEY = re.compile(r'[^a-zA-Z0-9_\\\.\-]')
-          # 合法动作键（非 picture 引用）。值通常是数字，少数是 list。
-          KEY_TYPES = {
-            # 移动 / 按键
-            'w': 'num', 'a': 'num', 's': 'num', 'd': 'num',
-            'ww': 'num', 'aa': 'num', 'ss': 'num', 'dd': 'num',
-            'f': 'num', 'r': 'num', 'e': 'num', 'b': 'num', 'space': 'num',
-            'esc': 'num', 'caps': 'num', '1': 'num',
-            # UI / 界面
-            'fighting': 'num', 'map': 'num', 'main': 'num', 'await': 'num',
-            'lv999_fighting': 'num', 'lv999_e': 'num', 'lv999_await': 'num',
-            'view_rotate': 'num', 'view_reset': 'num', 'view_set': 'num',
-            'scene': 'num', 'scroll': 'num', 'forbid_retry': 'num',
-            'allow_skip_f': 'num',
-            'need_allow_map_buy': 'num', 'need_allow_snack_buy': 'num',
-            'need_allow_memory_token': 'num',
-            # 拖拽 / 点击（list 值合法）
-            'drag': 'num', 'drag_exact': 'list', 'drag_offset': 'list',
-            'click_offset': 'list', 'clicks': 'num',
-            'floor': 'list', 'check': 'list',
-          }
+          errors = []
+          warnings = []
           pics = set()
           for root, _, files in os.walk('picture'):
-            for f in files:
-              pics.add(f)
-          def pic_ok(ref):
-            # 实际文件可能为 ref（精确）或 ref + '.webp'（源图是 webp）
-            return ref in pics or (ref + '.webp') in pics
+              for f in files:
+                  pics.add(f)
+
+          def pic_exists(ref):
+              # v1 键带 .png 后缀，v2 img 是 stem；磁盘实际可能是
+              # `<stem>.png.webp`（源图是 webp，仓里按带后缀原名存）或 `<stem>.webp`
+              base = ref[:-4] if ref.endswith('.png') else ref
+              return any(base + ext in pics for ext in ('.png', '.webp', '.png.webp'))
+
           maps = 0
           for root, _, files in os.walk('map'):
-            for f in files:
-              if not FILE_RE.match(f):
-                errors.append(f'bad filename: {root}/{f}')
-                continue
-              maps += 1
-              p = os.path.join(root, f)
-              try:
-                d = json.load(open(p, encoding='utf-8'))
-              except Exception as e:
-                errors.append(f'{p}: invalid JSON {e}')
-                continue
-              if not isinstance(d.get('name'), str) or not d['name'].strip():
-                errors.append(f'{p}: missing name')
-              if not isinstance(d.get('author'), str) or not d['author'].strip():
-                errors.append(f'{p}: missing author')
-              for arr in ('start', 'map'):
-                if not isinstance(d.get(arr), list):
-                  errors.append(f'{p}: {arr} not list')
-                  continue
-                for step in d[arr]:
-                  if not isinstance(step, dict) or len(step) < 1:
-                    errors.append(f'{p}: bad step {step}')
-                    continue
-                  for k, v in step.items():
-                    if BAD_KEY.search(k):
-                      errors.append(f'{p}: bad key {k!r}')
-                    if k.startswith('picture\\'):
-                      ref = k.split('\\')[1]
-                      if not pic_ok(ref):
-                        errors.append(f'{p}: missing picture {ref}')
-                    else:
-                      t = KEY_TYPES.get(k)
-                      if t is None:
-                        errors.append(f'{p}: unknown key {k!r}')
-                      elif t == 'num' and not isinstance(v, (int, float)):
-                        errors.append(f'{p}: value not number for {k}')
-                      elif t == 'list' and not isinstance(v, list):
-                        errors.append(f'{p}: value not list for {k}')
-          print(f'checked {maps} maps, {len(pics)} pictures')
+              for f in files:
+                  if not FILE_RE.match(f):
+                      errors.append(f'{root}/{f}: bad filename')
+                      continue
+                  maps += 1
+                  p = os.path.join(root, f)
+                  try:
+                      d = json.load(open(p, encoding='utf-8'))
+                  except Exception as e:
+                      errors.append(f'{p}: invalid JSON {e}')
+                      continue
+                  for issue in validate_map(d, filename=p):
+                      (errors if issue.level == 'error' else warnings).append(
+                          f'{issue.path}: {issue.message}')
+                  # schema 只管结构；图片文件是否真的存在在这里查
+                  for entry in d.get('start', []):
+                      if not isinstance(entry, dict):
+                          continue
+                      for k in entry:
+                          if isinstance(k, str) and k.startswith('picture\\') \
+                                  and not pic_exists(k.split('\\', 1)[1]):
+                              errors.append(f'{p}: missing picture {k}')
+                      stem = entry.get('img')
+                      if isinstance(stem, str) and stem and not pic_exists(stem):
+                          errors.append(f'{p}: missing picture {stem}.png')
+
+          print(f'checked {maps} maps, {len(pics)} pictures, {len(warnings)} warnings')
+          if warnings:
+              print('\n'.join(warnings[:30]))
           if errors:
-            print('\n'.join(errors[:50]))
-            sys.exit(1)
+              print('\n'.join(errors[:50]))
+              sys.exit(1)
           print('OK')
           PY
       - name: Auto-merge on PR
